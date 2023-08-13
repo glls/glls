@@ -13,12 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?
-username=glls&show_icons=true&line_height=33&count_private=true)
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=glls&fire=EB5454&currStreakLabel=EB5454&card_width=639&hide_border=true&ring=orange&theme=transparent)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=glls&card_width=639&hide_border=false&theme=transparent)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api/?username=glls&hide=html,tsql&count_private=true&layout=compact&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=glls&hide=html,tsql&count_private=true&layout=compact&theme=transparent)
 
 -->
 
@@ -26,3 +23,4 @@ username=glls&show_icons=true&line_height=33&count_private=true)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=glls&hide=html,tsql&count_private=true&layout=compact&theme=transparent)
 
+💬 🌱 I’m currently [posting here](https://georgelitos.com/post/) 😄 🔭
