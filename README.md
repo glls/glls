@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=glls&hide=html,tsql&count_private=true)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=glls&hide=html,tsql&count_private=true&layout=compact)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=glls&show_icons=true&line_height=33&count_private=true)
 
 -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=glls&fire=EB5454&currStreakLabel=EB5454&ring=orange)](https://git.io/streak-stats)
