@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=glls&fire=EB5454&currStreakLabel=EB5454&hide_border=true&ring=orange&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=glls&fire=EB5454&currStreakLabel=EB5454&card_width=639&hide_border=true&ring=orange&theme=transparent)](https://git.io/streak-stats)
