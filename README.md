@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api/?username=glls&hide=html,tsql&count_private=true&layout=compact&theme=transparent)
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=glls&hide=html,tsql&count_private=true&layout=compact&theme=transparent)
 
--->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=glls&card_width=639&hide_border=false&theme=transparent)](https://git.io/streak-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=glls&hide=html,tsql&count_private=true&layout=compact&theme=transparent)
+
+-->
 
 💬 🌱 I’m currently [posting here](https://georgelitos.com/post/) 😄 🔭
